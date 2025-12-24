@@ -15,6 +15,7 @@
   I build clean, scalable backend systems and love turning ideas into working APIs.
 </p>
 
+
 ---
 
 ## 🧠 About Me
@@ -32,6 +33,10 @@
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+
 
 ### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -40,7 +45,9 @@
 
 ### 🗄️ Databases
 ![H2](https://img.shields.io/badge/H2-Database-blue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,6 +75,19 @@
 
 ---
 
+
+## 🧩 Problem Solving & DSA
+
+- 🟧 Actively solving problems on **LeetCode**
+- 💡 Focus areas: Arrays, Strings, DP, Graphs, Trees
+- ⚙️ Languages used: Java, C++, Python, c#
+  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/LGVXRrDgvh?theme=dark&font=Fira+Code&ext=contest" />
+</p>
+
+ ---
+
 ## 🌱 Currently Learning
 
 - Advanced Spring Boot patterns
@@ -80,6 +100,9 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
+  <a href="https://leetcode.com/u/LGVXRrDgvh/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
   <a href="https://www.linkedin.com/in/sritharun-v-b78a60176/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -91,6 +114,8 @@
   <a href="mailto:vuppu.sritharun.ece16@itbhu.ac.in@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+
 </p>
 
 ---
