@@ -83,7 +83,7 @@
 - ⚙️ Languages used: Java, C++, Python, c#
   
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/LGVXRrDgvh?theme=dark&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/SritharunV?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
  ---
@@ -100,7 +100,7 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://leetcode.com/u/LGVXRrDgvh/">
+  <a href="https://leetcode.com/u/SritharunV/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/sritharun-v-b78a60176/">
