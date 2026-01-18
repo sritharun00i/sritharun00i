@@ -47,15 +47,22 @@
 
 ---
 
+### 🧠 AI / LLM Stack
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-OpenAI%20%2F%20Local-informational?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Search-Embeddings-orange?style=for-the-badge)
+
+---
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-Dev--Only-blue?style=for-the-badge)
 
 ---
 
-### ☁️ Infrastructure & Tools
-![Eureka](https://img.shields.io/badge/Eureka-Service%20Discovery-blue?style=for-the-badge)
+### ☁️ Tools & Infrastructure
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-Spring%20Cloud-informational?style=for-the-badge)
+![Eureka](https://img.shields.io/badge/Eureka-Service%20Discovery-blue?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -84,14 +91,36 @@
 
 ---
 
+### 🤖 RAG-Based AI Chatbot (LLM + Vector Search)
+
+🔍 **What I built**
+- An AI chatbot using **Retrieval Augmented Generation (RAG)**
+- Ingests documents and converts them into **vector embeddings**
+- Performs **semantic search** to retrieve relevant context
+- Generates accurate, context-aware responses using an LLM
+- Designed to reduce hallucinations and improve answer reliability
+
+🧠 **Core Concepts Used**
+- Document chunking & embedding
+- Vector similarity search
+- Context injection into LLM prompts
+- Backend orchestration of retrieval + generation pipeline
+
+🛠️ **Tech**
+`Python · LLMs · Embeddings · Vector Database · RAG Architecture`
+
+📌 Focused on real-world AI integration rather than standalone prompt usage.
+
+
+
 ## 🧩 Problem Solving & DSA
 
 - 🟧 Actively solving problems on **LeetCode**
 - 💡 Focus areas: Arrays, Strings, DP, Graphs, Trees
 - ⚙️ Languages used: Java, C++, Python, C#
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SritharunV?theme=dark&font=Fira+Code&ext=contest" />
+<p align="center"> 
+  <img src="https://leetcard.jacoblin.cool/SritharunV?theme=dark&font=Fira+Code&ext=contest" /> 
 </p>
 
 ---
