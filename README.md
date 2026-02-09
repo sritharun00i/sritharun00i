@@ -1,11 +1,11 @@
 <!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=DFF776&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I%27m+Sri+Tharun+%F0%9F%91%8B;Backend+Developer;Spring+Boot+Enthusiast;Building+APIs+that+Scale;Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=DFF776&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I%27m+Sri+Tharun+%F0%9F%91%8B;Backend+Engineer+%7C+AI+Engineer;Spring+Boot+%26+Microservices;Building+Scalable+APIs" alt="Typing SVG" />
 </p>
 
 ---
 
-<h1 align="center">🚀 Backend Engineer | Java & Spring Boot | LLM enthusiast </h1>
+<h1 align="center">🚀 Backend Engineer | FastAPI and Spring Boot | LLM/AI enthusiast </h1>
 
 <p align="center">
   <b>Backend Developer</b> • <b>Microservices</b> • <b>Spring Security</b> • <b>System Design</b>
